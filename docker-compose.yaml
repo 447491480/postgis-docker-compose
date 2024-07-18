@@ -17,7 +17,7 @@ services:
     environment:
       POSTGRES_USER: root
       POSTGRES_DB: postgres
-      POSTGRES_PASSWORD: ijX8LRlUIY4TB7Vw7EDZ
+      POSTGRES_PASSWORD: IJX8LRlUIY4TB7Vw7EDZ
       PGDATA: /var/lib/postgresql/data/pgdata
     volumes:
       - ~/docker-data/pg14/data:/var/lib/postgresql/data
